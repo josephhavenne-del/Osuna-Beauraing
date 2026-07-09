@@ -1,0 +1,14 @@
+{
+  "derniere_maj": "2026-07-09",
+  "club": "Osuna Volley Beauraing",
+  "_note": "Saison 2026-2027 pas encore publiée par la fédération à cette date. Les équipes apparaissent déjà dans le sélecteur, sans matchs pour l'instant. Dès que le calendrier sera en ligne, la synchronisation automatique (GitHub Actions) le récupérera — voir README.md. Seuls les matchs à venir sont conservés : les matchs déjà joués ne s'affichent jamais sur le site.",
+  "equipes": [
+    { "id": "prom-h", "nom": "Promotion Messieurs", "team_id": 306672, "matchs": [] },
+    { "id": "prom-d", "nom": "Promotion Dames", "team_id": 309326, "matchs": [] },
+    { "id": "p1-h", "nom": "P1 Messieurs", "team_id": 312389, "matchs": [] },
+    { "id": "p2-h", "nom": "P2 Messieurs", "team_id": 317669, "matchs": [] },
+    { "id": "p2-d", "nom": "P2 Dames", "team_id": 315029, "matchs": [] },
+    { "id": "p4-d", "nom": "P4 Dames", "team_id": 317999, "matchs": [] },
+    { "id": "u13-d", "nom": "U13 Filles", "team_id": 310646, "matchs": [] }
+  ]
+}
