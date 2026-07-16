@@ -1,13 +1,211 @@
 {
   "derniere_maj": "2026-07-16",
   "club": "Osuna Volley Beauraing",
-  "_note": "Saison 2026-2027, donnees recuperees sur le portail FVWB (pages de resultats par serie + coupes provinciales + pages de detail de chaque match pour la salle exacte). Promotion Messieurs : championnat pas encore publie par la federation, seul le match de coupe est connu (salle pas encore fixee). U13 Filles : pas encore de serie trouvee pour cette categorie. La synchronisation quotidienne (easyscore.be) prendra le relais automatiquement une fois ce site miroir a jour.",
+  "_note": "Saison 2026-2027, donnees recuperees sur le portail FVWB (pages de resultats par serie + coupes provinciales + pages de detail de chaque match pour la salle exacte). Toutes les equipes ont maintenant leur championnat, y compris Promotion Messieurs desormais publie. U13 Filles : pas encore de serie trouvee pour cette categorie. La synchronisation quotidienne (easyscore.be) prendra le relais automatiquement une fois ce site miroir a jour.",
   "equipes": [
     {
       "id": "prom-h",
       "nom": "Promotion Messieurs",
       "team_id": 306672,
       "matchs": [
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-09-11",
+          "heure": "21:15",
+          "adversaire": "Walhain V.C. B",
+          "lieu": "exterieur",
+          "salle": "Walhain Complexe Omnisports - C1",
+          "adresse": "Rue Chapelle Ste Anne, 13, 1457 Walhain"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-09-19",
+          "heure": "17:00",
+          "adversaire": "Chaumont V.C. B",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-09-27",
+          "heure": "17:30",
+          "adversaire": "Floor F V.C. B",
+          "lieu": "exterieur",
+          "salle": "Floreffe Centre sportif - C1",
+          "adresse": "rue Joseph Hanse 6, 5150 Floreffe"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-10-03",
+          "heure": "17:00",
+          "adversaire": "BW Nivelles Volley D",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-10-11",
+          "heure": "18:00",
+          "adversaire": "NAMUR VOLLEY B",
+          "lieu": "exterieur",
+          "salle": "Bouge Centre sportif - C1",
+          "adresse": "Rue des Etourneaux, 28, 5004 Bouge"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-10-17",
+          "heure": "17:00",
+          "adversaire": "VBC Guibertin E",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-11-08",
+          "heure": "14:30",
+          "adversaire": "Bruxelles Est V.C. B",
+          "lieu": "exterieur",
+          "salle": "centre sportif d'Auderghem Willegems",
+          "adresse": "chaussée de Wavre, 1690, 1160 Auderghem"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-11-22",
+          "heure": "18:30",
+          "adversaire": "Bruxelles Est V.C. C",
+          "lieu": "exterieur",
+          "salle": "centre sportif d'Auderghem - Vrijdaghs",
+          "adresse": "1690 Chaussée de Wavre, 1160 Auderghem"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-11-29",
+          "heure": "18:00",
+          "adversaire": "VC Lesse et Lhomme B",
+          "lieu": "exterieur",
+          "salle": "Jemelle Hall Multisports - L3",
+          "adresse": "rue des Jardins, 46, 5580 Jemelle"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-12-05",
+          "heure": "21:00",
+          "adversaire": "Volley Ohey A",
+          "lieu": "exterieur",
+          "salle": "Ohey Centre Sportif Communal - L2",
+          "adresse": "Voie du Rauyisse, 1, 5350 Ohey"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2026-12-12",
+          "heure": "17:00",
+          "adversaire": "Floor F V.C. A",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-01-09",
+          "heure": "17:00",
+          "adversaire": "Walhain V.C. B",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-01-16",
+          "heure": "20:30",
+          "adversaire": "Chaumont V.C. B",
+          "lieu": "exterieur",
+          "salle": "Centre Sportif André Docquier - C1",
+          "adresse": "Avenue du Ronvau, 8, 1325 Chaumont-Gistoux"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-01-23",
+          "heure": "17:00",
+          "adversaire": "Floor F V.C. B",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-01-30",
+          "heure": "20:30",
+          "adversaire": "BW Nivelles Volley D",
+          "lieu": "exterieur",
+          "salle": "salle omnisport de Baulers - C1",
+          "adresse": "Rue de l'Eglise 3B, 1401 Baulers"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-02-06",
+          "heure": "17:00",
+          "adversaire": "NAMUR VOLLEY B",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-02-12",
+          "heure": "21:30",
+          "adversaire": "VBC Guibertin E",
+          "lieu": "exterieur",
+          "salle": "Centre Sportif Jean Moisse - L2",
+          "adresse": "27a Rue des Hayeffes, 1435 Mont-Saint-Guibert"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-03-06",
+          "heure": "17:00",
+          "adversaire": "Bruxelles Est V.C. B",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-03-13",
+          "heure": "21:00",
+          "adversaire": "Floor F V.C. A",
+          "lieu": "exterieur",
+          "salle": "Floreffe Centre sportif - C1",
+          "adresse": "rue Joseph Hanse 6, 5150 Floreffe"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-03-20",
+          "heure": "17:00",
+          "adversaire": "Bruxelles Est V.C. C",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-04-10",
+          "heure": "17:00",
+          "adversaire": "VC Lesse et Lhomme B",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
+        {
+          "competition": "Promotion Messieurs",
+          "date": "2027-04-17",
+          "heure": "17:00",
+          "adversaire": "Volley Ohey A",
+          "lieu": "domicile",
+          "salle": "Beauraing Complexe Communal - C1",
+          "adresse": "rue de la Couture, 46, 5570 Beauraing"
+        },
         {
           "competition": "Coupe Messieurs",
           "date": "2026-10-31",
